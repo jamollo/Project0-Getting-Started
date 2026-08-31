@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jmoll\OneDrive\Documents\UPENN\Fall 2026\CIS 5650 - GPU\Project0-Getting-Started\build\CMakeFiles\9db856f744038e05dcd962e829b6d30c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CCAF1426-3217-3B35-B8F8-697F6E35189A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

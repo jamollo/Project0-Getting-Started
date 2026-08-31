@@ -1,0 +1,10 @@
+^C:\USERS\JMOLL\ONEDRIVE\DOCUMENTS\UPENN\FALL 2026\CIS 5650 - GPU\PROJECT0-GETTING-STARTED\BUILD\CMAKEFILES\9DB856F744038E05DCD962E829B6D30C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/jmoll/OneDrive/Documents/UPENN/Fall 2026/CIS 5650 - GPU/Project0-Getting-Started/cuda-gl-check" "-BC:/Users/jmoll/OneDrive/Documents/UPENN/Fall 2026/CIS 5650 - GPU/Project0-Getting-Started/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/jmoll/OneDrive/Documents/UPENN/Fall 2026/CIS 5650 - GPU/Project0-Getting-Started/build/cuda-gl-check.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

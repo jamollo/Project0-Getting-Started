@@ -1,0 +1,3 @@
+C:/Users/jmoll/OneDrive/Documents/UPENN/Fall 2026/CIS 5650 - GPU/Project0-Getting-Started/build/CMakeFiles/cuda-gl-check.dir
+C:/Users/jmoll/OneDrive/Documents/UPENN/Fall 2026/CIS 5650 - GPU/Project0-Getting-Started/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jmoll/OneDrive/Documents/UPENN/Fall 2026/CIS 5650 - GPU/Project0-Getting-Started/build/CMakeFiles/ZERO_CHECK.dir

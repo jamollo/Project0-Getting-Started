@@ -1,0 +1,5 @@
+﻿  main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  cuda-gl-check.vcxproj -> C:\Users\jmoll\OneDrive\Documents\UPENN\Fall 2026\CIS 5650 - GPU\Project0-Getting-Started\build\bin\Release\cuda-gl-check.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
