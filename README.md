@@ -16,17 +16,11 @@
 
 * Images
 
-!\[Nsight Compute Details](images/nsight\_compute\_details.png)
-
-!\[Nsight Compute Summary](images/nsight\_compute\_summary.png)
-
-!\[Nsight Systems](images/Nsight\_Systems.png)
-
-!\[Part 2.1.2 Screenshot](images/Part\_2\_1\_2\_Screenshot.png)
-
-!\[Warp Info](images/Warp\_info.png)
-
-!\[WebGL Support Verified](images/webGL\_support\_verified.png)
-
-!\[WebGPU Support Verified](images/webGPU\_support\_verified.png)
+![Nsight Compute Details](images/nsight_compute_details.png)
+![Nsight Compute Summary](images/nsight_compute_summary.png)
+![Nsight Systems](images/Nsight_Systems.png)
+![Part 2.1.2 Screenshot](images/Part_2_1_2_Screenshot.png)
+![Warp Info](images/Warp_info.png)
+![WebGL Support Verified](images/webGL_support_verified.png)
+![WebGPU Support Verified](images/webGPU_support_verified.png)
 
