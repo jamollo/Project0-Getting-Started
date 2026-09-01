@@ -3,7 +3,7 @@
   
   C:\Users\jmoll\OneDrive\Documents\UPENN\Fall 2026\CIS 5650 - GPU\Project0-Getting-Started\build>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.3\bin\nvcc.exe"  --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -I"C:\Users\jmoll\OneDrive\Documents\UPENN\Fall 2026\CIS 5650 - GPU\Project0-Getting-Started\cuda-gl-check\external\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.3\include"  -G   --keep-dir cuda-gl-check\x64\Debug  -maxrregcount=0     --machine 64 --compile -cudart static -forward-unknown-to-host-compiler -arch=native -Xcompiler="/EHsc -Zi -Ob0" -g  -D_WINDOWS -DGLEW_STATIC -D"CMAKE_INTDIR=\"Debug\"" -D_MBCS -DWIN32 -D_WINDOWS -DGLEW_STATIC -D"CMAKE_INTDIR=\"Debug\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/Fdcuda-gl-check.dir\Debug\vc143.pdb" -o cuda-gl-check.dir\Debug\kernel.obj "C:\Users\jmoll\OneDrive\Documents\UPENN\Fall 2026\CIS 5650 - GPU\Project0-Getting-Started\cuda-gl-check\src\kernel.cu" 
   kernel.cu
-  tmpxft_00007bc0_00000000-8_kernel.cudafe1.cpp
+  tmpxft_00010338_00000000-8_kernel.cudafe1.cpp
   glslUtility.cpp
   main.cpp
   Generating Code...

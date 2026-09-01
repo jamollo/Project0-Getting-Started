@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\build\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7B948EB-1064-3645-9C96-FB12C31EAFEC}|cuda-gl-check.vcxproj|C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\cuda-gl-check\\src\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7B948EB-1064-3645-9C96-FB12C31EAFEC}|cuda-gl-check.vcxproj|C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\cuda-gl-check\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,15 +21,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\cuda-gl-check\\src\\kernel.cu",
+              "RelativeDocumentMoniker": "..\\cuda-gl-check\\src\\kernel.cu",
+              "ToolTip": "C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\cuda-gl-check\\src\\kernel.cu",
+              "RelativeToolTip": "..\\cuda-gl-check\\src\\kernel.cu",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-31T12:41:28.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\cuda-gl-check\\src\\main.cpp",
               "RelativeDocumentMoniker": "..\\cuda-gl-check\\src\\main.cpp",
               "ToolTip": "C:\\Users\\jmoll\\OneDrive\\Documents\\UPENN\\Fall 2026\\CIS 5650 - GPU\\Project0-Getting-Started\\cuda-gl-check\\src\\main.cpp",
               "RelativeToolTip": "..\\cuda-gl-check\\src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-31T01:10:48.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T01:10:48.708Z"
             }
           ]
         }
